@@ -17,4 +17,4 @@
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavodefreitasDEV&show_icons=true&theme=radical)
 
 ### Últimos videos:
-- [Minha evolução com 2 meses de faculade](https://youtu.be/)<br/>
+- [Minha evolução com 2 meses de faculdade](https://youtu.be/)<br/>
