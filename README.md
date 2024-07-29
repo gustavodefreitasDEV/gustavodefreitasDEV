@@ -1,6 +1,4 @@
 ## Olá! Eu sou o Gustavo 🖐️
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/Codandocomgust4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vzgust4)
 
 ## Tecnologias que eu uso no meu dia
@@ -15,6 +13,3 @@
 </div><br/>
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavodefreitasDEV&show_icons=true&theme=radical)
-
-### Últimos videos:
-- [Minha evolução com 2 meses de faculdade](https://youtu.be/)<br/>
