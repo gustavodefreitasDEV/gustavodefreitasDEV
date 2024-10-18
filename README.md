@@ -21,4 +21,4 @@ Meu nome é Gustavo de Freitas atualmente tenho 18 anos, Sou natural do japão, 
 </div><br/>
 
 # 📊 Estatísticas
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavodefreitasDEV&show_icons=true&theme=radical)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavodefreitasDEV&show_icons=true&theme=radical)  ![Codewars](https://github.r2v.ch/codewars?user=gustavodefreitasDEV&theme=gradient)
