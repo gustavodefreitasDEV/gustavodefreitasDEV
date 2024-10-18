@@ -1,6 +1,6 @@
 Seja Bem vindo(a) a minha página do GitHub!
 
-Meu nome é Gustavo de Freitas atualmente tenho 18 anos, Sou natural do japão, Sou estudante de engenharia na Cruzeiro do Sul e estudante em algumas outras escolas online, meu passatempo atual é pesquisar e estudar sobre IA e práticar minha lógica de programação criando alguns projetos
+Meu nome é Gustavo de Freitas atualmente tenho 18 anos, Sou natural do japão e atualmente estudante de Engenharia de Software na Cruzeiro do Sul, meu passatempo atual é pesquisar e estudar sobre IA e práticar minha lógica de programação criando alguns projetos
 
 ## 💚 Me Siga em
 
