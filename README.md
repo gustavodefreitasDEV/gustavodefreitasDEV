@@ -7,7 +7,7 @@ Meu nome é Gustavo de Freitas atualmente tenho 18 anos, Sou natural do japão e
 - Twitter/X - [@CodeWithGusta](https://x.com/CodeWithGusta)
 - LinkedIn - [@gustavodefreitas](https://www.linkedin.com/in/gustavo-de-freitas-6abb28325/)
 - Medium blog - [@gustavodefreitasdev](https://medium.com/@gustavodefreitasdev)
-- YouTube Channel (Por vir)
+- YouTube (Por vir)
 
 ## Tecnologias que eu uso no meu dia
 
