@@ -1,5 +1,13 @@
-## Olá! Eu sou o Gustavo 🖐️
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vzgust4)
+Seja Bem vindo(a) a minha página do GitHub!
+
+Meu nome é Gustavo de Freitas atualmente tenho 18 anos, Sou natural do japão, Sou estudante de engenharia na Cruzeiro do Sul e estudante em algumas outras escolas online, meu passatempo atual é pesquisar e estudar sobre IA e práticar minha lógica de programação criando alguns projetos
+
+## 💚 Me Siga em
+
+- Twitter/X - [@CodeWithGusta](https://x.com/CodeWithGusta)
+- LinkedIn - [@gustavodefreitas](https://www.linkedin.com/in/gustavo-de-freitas-6abb28325/)
+- Medium blog - [@gustavodefreitasdev](https://medium.com/@gustavodefreitasdev)
+- YouTube Channel (Por vir)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -12,4 +20,5 @@
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
+# 📊 Estatísticas
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavodefreitasDEV&show_icons=true&theme=radical)
